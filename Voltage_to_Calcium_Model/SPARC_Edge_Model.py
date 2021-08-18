@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import scipy.io
 import glob as glob
 import os
-import Model_functions as model
+import Model_functions as model   
 
 #read data and store in pandas dataframe
 #Bulle T4cArclight ON Edge data
